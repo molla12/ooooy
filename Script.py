@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """<b><u>Islamic Series</u></b>
+    START_TXT = """<b><u>Islamic Series1</u></b>
 
 <b>ʜᴇʏ {}, {}</b>
 
